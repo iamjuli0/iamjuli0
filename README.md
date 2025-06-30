@@ -3,19 +3,24 @@
 - 🔭 Buscando estágio
 - 🌱 Estudando Java e JavaScript
 - 👯 Trabalhando no projeto GuIA - Pré-Diagnóstico Médico Inteligente
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
+
+
+<!-- Para procurar icones de linguagem etc: https://devicon.dev/ -->
 <div style="display: inline_block"><br>
   <img align="center" alt="JC-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JC-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt= "JC-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="JC-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="JC-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="JC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JC-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"/>
+  <img align="center" alt="JC-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  <img align="right" alt="JC-phainon" src="https://cdn.discordapp.com/attachments/302306001741152267/1389361993303068742/phainon.gif?ex=686457b0&amp;is=68630630&amp;hm=1a3f1885d9801513a3f8a685ef3f3e78ec0cf96cca63c1ad27831218ed7dcf2a&amp;">
 </div>
   
   ##
- 
+
+<!-- Para procurar icones de redes: https://dev.to/envoy_/150-badges-for-github-pnk -->
 <div> 
   <a href="https://instagram.com/juli0m_c" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://github.com/iamjuli0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
