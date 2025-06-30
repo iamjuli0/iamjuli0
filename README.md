@@ -30,4 +30,6 @@
   <img align="right" alt="JC-phainon" height="180" width="180" src="assets/phainon.gif">
 </div>
 
+![Snake animation](https://github.com/iamjulio/iamjulio/blob/output/github-contribution-grid-snake.svg)
+
 <!--<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
