@@ -30,6 +30,11 @@
   <img align="right" alt="JC-phainon" height="180" width="180" src="assets/phainon.gif">
 </div>
 -->
-![Snake animation](https://github.com/iamjuli0/iamjuli0/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamjuli0/iamjuli0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamjuli0/iamjuli0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamjuli0/iamjuli0/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
