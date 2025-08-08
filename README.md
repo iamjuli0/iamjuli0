@@ -1,7 +1,7 @@
 ## Olá, eu sou o Júlio Campos!
 
 - 🔭 Buscando estágio
-- 🌱 Estudando Java e JavaScript
+- 🌱 Desenvolvendo um jogo 
 - 👯 Trabalhando no projeto GuIA - Pré-Diagnóstico Médico Inteligente
 - 😄 Pronomes: ele/dele
 
